@@ -1,0 +1,11 @@
+/* src/style.css */
+@import "tailwindcss";
+
+*{
+  font-family: gilroy;
+}
+
+::selection {
+  background-color: #2563eb;
+  color: white;
+}
